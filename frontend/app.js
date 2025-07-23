@@ -10,7 +10,8 @@ form.addEventListener("submit", async (e) => {
 
   // Build the request body
   const data = { name: nameInput.value };
-  const API_URL = "https://ajax-demo-green.vercel.app";
+  const api_url = "https://ajax-demo-7c9z-6o17m6pjh-suyashs-projects-76d1b303.vercel.app"
+  // const API_URL = "https://ajax-demo-green.vercel.app";
   // const API_URL = "http://localhost:8000"; // Local FastAPI server
 
   try {
